@@ -1,0 +1,12 @@
+// import React from 'react'
+// import ResetYouPasswordForm from '../_components/reset-your-password'
+
+// const ResetPasswordPage = () => {
+//     return (
+//         <div className='h-ful rounded-md flex justify-center items-center'>
+//             <ResetYouPasswordForm />
+//         </div>
+//     )
+// }
+
+// export default ResetPasswordPage

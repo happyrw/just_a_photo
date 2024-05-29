@@ -1,0 +1,12 @@
+// import React from 'react'
+// import NewVerificationForm from '../_components/new-verification-form';
+
+// const NewVerificationPage = () => {
+//     return (
+//         <div className='h-ful rounded-md flex justify-center items-center'>
+//             <NewVerificationForm />
+//         </div>
+//     )
+// }
+
+// export default NewVerificationPage;
